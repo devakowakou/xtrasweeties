@@ -9,7 +9,7 @@ export const config = {
   matcher: ['/((?!api|_next/static|_next/image|images|favicon|assets|favicon.ico|sw.js|site.webmanifest|manifest.json|robots.txt|sitemap.xml).*)']
 }
 
-export function proxy(req: NextRequest) {
+export function middleware(req: NextRequest) {
   let lng
   if (req.cookies.has(cookieName)) {
     const cookie = req.cookies.get(cookieName)

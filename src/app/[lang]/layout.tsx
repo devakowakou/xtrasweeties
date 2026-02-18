@@ -32,7 +32,7 @@ const kaushanScript = Kaushan_Script({
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang } = await params
-  const { t } = await useTranslation(lang)
+  const { t } = await getTranslation(lang)
 
   return {
     manifest: '/manifest.json',
@@ -127,7 +127,7 @@ import Header from '@/components/layout/header'
 import Footer from '@/components/layout/footer'
 import { navigationData } from '@/assets/data/header'
 
-import { useTranslation } from '@/lib/i18n'
+import { getTranslation } from '@/lib/i18n'
 
 const RootLayout = async ({
   children,
@@ -137,7 +137,7 @@ const RootLayout = async ({
   params: Promise<{ lang: string }>
 }>) => {
   const { lang } = await params
-  const { t } = await useTranslation(lang)
+  const { t } = await getTranslation(lang)
 
   const translatedNavigationData = navigationData.map((item) => ({
     ...item,
