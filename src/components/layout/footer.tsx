@@ -13,7 +13,7 @@ const Footer = async ({ lng }: { lng: string }) => {
   const { t } = await getTranslation(lng)
 
   return (
-    <footer className='bg-muted' style={{ clipPath: 'polygon(0 16px, 100% 0, 100% 100%, 0 100%)' }}>
+    <footer className='bg-muted [clip-path:polygon(0_16px,100%_0,100%_100%,0_100%)]'>
       <div className='mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-4 max-md:flex-col sm:px-6 sm:py-6 md:gap-6 md:py-8'>
         <Link href='/#home'>
           <div className='flex items-center gap-3'>
