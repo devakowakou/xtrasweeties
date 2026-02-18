@@ -6,7 +6,7 @@ import { ArrowRightIcon } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 
-import { useTranslation } from '@/lib/i18n'
+import { getTranslation } from '@/lib/i18n'
 
 type Stat = {
   icon: ComponentType
@@ -15,7 +15,7 @@ type Stat = {
 }
 
 const AboutUs = async ({ stats, lng }: { stats: Stat[]; lng: string }) => {
-  const { t } = await useTranslation(lng)
+  const { t } = await getTranslation(lng)
 
   const statKeys = ['years', 'dishes', 'guests', 'awards']
 
@@ -58,6 +58,7 @@ const AboutUs = async ({ stats, lng }: { stats: Stat[]; lng: string }) => {
           <div className='bg-background grid gap-10 border p-8 sm:max-lg:grid-cols-2 lg:absolute lg:-bottom-25 lg:left-1/2 lg:w-3/4 lg:-translate-x-1/2 lg:grid-cols-4 lg:px-10'>
             {stats.map((stat, index) => {
               const translatedDesc = t(`stats.${statKeys[index]}`, { returnObjects: true }) as string[]
+
               return (
                 <div key={index} className='flex flex-col items-center justify-center gap-2.5 text-center'>
                   <div className='flex size-7 items-center justify-center [&>svg]:size-7'>

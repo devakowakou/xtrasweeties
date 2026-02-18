@@ -102,9 +102,7 @@ const HeroSection = ({ menudata, lng }: { menudata: MenuData[]; lng: string }) =
               {t('hero.title')}
             </h1>
 
-            <p className='text-muted-foreground max-w-xl text-xl max-lg:text-center'>
-              {t('hero.description')}
-            </p>
+            <p className='text-muted-foreground max-w-xl text-xl max-lg:text-center'>{t('hero.description')}</p>
 
             <div className='flex items-center gap-3.5'>
               <Button

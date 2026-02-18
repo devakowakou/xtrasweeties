@@ -7,10 +7,10 @@ import { Separator } from '@/components/ui/separator'
 import BistroLogo from '@/assets/svg/bistro-logo'
 import { footerData } from '@/assets/data/footer'
 
-import { useTranslation } from '@/lib/i18n'
+import { getTranslation } from '@/lib/i18n'
 
 const Footer = async ({ lng }: { lng: string }) => {
-  const { t } = await useTranslation(lng)
+  const { t } = await getTranslation(lng)
 
   return (
     <footer className='bg-muted' style={{ clipPath: 'polygon(0 16px, 100% 0, 100% 100%, 0 100%)' }}>
@@ -23,7 +23,7 @@ const Footer = async ({ lng }: { lng: string }) => {
         </Link>
 
         <div className='flex items-center gap-5 whitespace-nowrap'>
-          {footerData.map((item) => (
+          {footerData.map(item => (
             <Link
               key={item.title}
               href={item.href}

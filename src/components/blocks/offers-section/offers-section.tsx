@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button'
 
 import { cn } from '@/lib/utils'
 
-import { useTranslation } from '@/lib/i18n'
+import { getTranslation } from '@/lib/i18n'
 
 type GalleryImage = {
   src: string
@@ -23,7 +23,7 @@ type GalleryImage = {
 }[]
 
 const Gallery = async ({ galleryImage, lng }: { galleryImage: GalleryImage; lng: string }) => {
-  const { t } = await useTranslation(lng)
+  const { t } = await getTranslation(lng)
 
   return (
     <section id='offers' className='py-8 sm:py-16 lg:py-24'>

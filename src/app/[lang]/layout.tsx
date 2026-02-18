@@ -120,7 +120,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 import { languages } from '@/lib/i18n/settings'
 
 export async function generateStaticParams() {
-  return languages.map((lang) => ({ lang }))
+  return languages.map(lang => ({ lang }))
 }
 
 import Header from '@/components/layout/header'
@@ -139,7 +139,7 @@ const RootLayout = async ({
   const { lang } = await params
   const { t } = await getTranslation(lang)
 
-  const translatedNavigationData = navigationData.map((item) => ({
+  const translatedNavigationData = navigationData.map(item => ({
     ...item,
     title: t(`nav_${item.title.toLowerCase().replace(/\s+/g, '_')}`)
   }))

@@ -2,7 +2,7 @@ import { Card, CardContent, CardTitle } from '@/components/ui/card'
 import { Separator } from '@/components/ui/separator'
 import { Badge } from '@/components/ui/badge'
 
-import { useTranslation } from '@/lib/i18n'
+import { getTranslation } from '@/lib/i18n'
 
 type PopularDish = {
   image: string
@@ -13,7 +13,7 @@ type PopularDish = {
 }[]
 
 const PopularDishes = async ({ popularDishes, lng }: { popularDishes: PopularDish; lng: string }) => {
-  const { t } = await useTranslation(lng)
+  const { t } = await getTranslation(lng)
 
   return (
     <section id='popular-dishes' className='py-8 sm:py-16 lg:py-24'>
@@ -23,9 +23,7 @@ const PopularDishes = async ({ popularDishes, lng }: { popularDishes: PopularDis
             {t('popular_dishes_section.badge')}
           </Badge>
           <h2 className='text-2xl font-semibold md:text-3xl lg:text-4xl'>{t('popular_dishes_section.title')}</h2>
-          <p className='text-muted-foreground text-xl'>
-            {t('popular_dishes_section.description')}
-          </p>
+          <p className='text-muted-foreground text-xl'>{t('popular_dishes_section.description')}</p>
         </div>
 
         {/* Dishes */}

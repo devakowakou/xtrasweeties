@@ -4,7 +4,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Avatar, AvatarFallback } from '@/components/ui/avatar'
 import { Badge } from '@/components/ui/badge'
 
-import { useTranslation } from '@/lib/i18n'
+import { getTranslation } from '@/lib/i18n'
 
 type ContactInfo = {
   title: string
@@ -13,7 +13,7 @@ type ContactInfo = {
 }[]
 
 const ContactUs = async ({ contactInfo, lng }: { contactInfo: ContactInfo; lng: string }) => {
-  const { t } = await useTranslation(lng)
+  const { t } = await getTranslation(lng)
 
   return (
     <section
@@ -39,9 +39,7 @@ const ContactUs = async ({ contactInfo, lng }: { contactInfo: ContactInfo; lng: 
 
           <div>
             <h3 className='mb-2 text-2xl'>{t('contact_us_section.sub_title')}</h3>
-            <p className='text-muted-foreground mb-10 text-lg'>
-              {t('contact_us_section.sub_description')}
-            </p>
+            <p className='text-muted-foreground mb-10 text-lg'>{t('contact_us_section.sub_description')}</p>
 
             {/* Contact Info Grid */}
             <div className='grid gap-6 sm:grid-cols-2'>

@@ -173,7 +173,7 @@ function RatingItem({
       </Comp>
       {!readOnly && (
         <input
-          title="Rating Input"
+          title='Rating Input'
           type='radio'
           id={`${ratingIconId}-${point}`}
           name={name}

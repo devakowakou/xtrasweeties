@@ -22,6 +22,7 @@ type TestimonialsComponentProps = {
 
 const TestimonialsComponent = ({ testimonials, lng }: TestimonialsComponentProps) => {
   const { t } = useTranslation(lng)
+
   return (
     <section
       id='testimonials'
@@ -40,13 +41,9 @@ const TestimonialsComponent = ({ testimonials, lng }: TestimonialsComponentProps
             {t('testimonials_section.badge')}
           </Badge>
 
-          <h2 className='text-2xl font-semibold sm:text-3xl lg:text-4xl'>
-            {t('testimonials_section.title')}
-          </h2>
+          <h2 className='text-2xl font-semibold sm:text-3xl lg:text-4xl'>{t('testimonials_section.title')}</h2>
 
-          <p className='text-muted-foreground text-xl'>
-            {t('testimonials_section.description')}
-          </p>
+          <p className='text-muted-foreground text-xl'>{t('testimonials_section.description')}</p>
 
           <div className='flex items-center gap-4'>
             <CarouselPrevious

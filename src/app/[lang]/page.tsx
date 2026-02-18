@@ -14,11 +14,11 @@ import { newItems } from '@/assets/data/new-items'
 import { contactInfo } from '@/assets/data/contact-us'
 import { GalleryImage } from '@/assets/data/offers'
 
-import { useTranslation } from '@/lib/i18n'
+import { getTranslation } from '@/lib/i18n'
 
 const Home = async ({ params }: { params: Promise<{ lang: string }> }) => {
   const { lang } = await params
-  const { t } = await useTranslation(lang)
+  const { t } = await getTranslation(lang)
 
   const jsonLd = {
     '@context': 'https://schema.org',

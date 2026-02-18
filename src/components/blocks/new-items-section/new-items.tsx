@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { Card, CardContent, CardTitle, CardDescription, CardHeader, CardFooter } from '@/components/ui/card'
 
-import { useTranslation } from '@/lib/i18n'
+import { getTranslation } from '@/lib/i18n'
 
 type NewItem = {
   img: string
@@ -17,7 +17,7 @@ type NewItem = {
 }[]
 
 const NewItems = async ({ newItems, lng }: { newItems: NewItem; lng: string }) => {
-  const { t } = await useTranslation(lng)
+  const { t } = await getTranslation(lng)
 
   return (
     <section id='new-items' className='py-8 sm:py-16 lg:py-24'>
