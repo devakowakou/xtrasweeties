@@ -308,7 +308,7 @@ function Rating({
   return (
     <div
       data-slot='rating'
-      role={!readOnly ? 'radiogroup' : 'img'}
+      role='radiogroup'
       onKeyDown={!readOnly ? handleKeyDown : undefined}
       onMouseDown={!readOnly ? handleMouseDown : undefined}
       tabIndex={!readOnly && !disabled ? 0 : undefined}
@@ -320,10 +320,6 @@ function Rating({
         className
       )}
       aria-label={readOnly ? `${value} stars` : 'Rating'}
-      aria-valuemin={0}
-      aria-valuemax={max}
-      aria-valuenow={value}
-      aria-valuetext={`${value} of ${max} stars`}
       {...props}
     >
       {stars.map(({ key, points }) => (
@@ -335,8 +331,6 @@ function Rating({
             isInteractive && 'transition-transform hover:scale-110',
             disabled && 'cursor-not-allowed'
           )}
-          aria-disabled={disabled}
-          aria-hidden={readOnly}
         >
           {points.map(point => (
             <RatingItem
