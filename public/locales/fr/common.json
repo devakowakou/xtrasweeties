@@ -1,169 +1,169 @@
 {
-    "title": "XTRA SWEETIES",
-    "description": "Savourez des ingrédients frais, des repas préparés avec soin et un espace accueillant conçu pour des moments mémorables. Découvrez une cuisine de bistro simple et délicieuse.",
-    "welcome": "Bienvenue",
-    "home": "Accueil",
-    "about": "À Propos",
-    "menu": "Menu",
-    "contact": "Contactez-nous",
-    "popular_dishes": "Plats Populaires",
-    "testimonials": "Témoignages",
-    "new_items": "Nouveaux Articles",
-    "offers": "Offres",
-    "nav_about_us": "À Propos",
-    "nav_testimonials": "Témoignages",
-    "nav_contact_us": "Contactez-nous",
-    "nav_offers": "Offres",
-    "book_table": "Réserver",
-    "hero": {
-        "title": "Savourez le goût de la perfection",
-        "description": "Bienvenue au Restaurant où la passion rencontre l'assiette. Des entrées grésillantes aux desserts signature, chaque plat est conçu pour ravir vos sens.",
-        "order_now": "Commander",
-        "comments": [
-            "L'ambiance est parfaite et la nourriture est absolument délicieuse. Hautement recommandé !",
-            "Meilleure expérience culinaire en ville. Le personnel est amical et le menu est exceptionnel.",
-            "Chaque plat est préparé avec soin. Cet endroit ne déçoit jamais !",
-            "Excellente atmosphère et saveurs incroyables. Un restaurant incontournable !",
-            "Chaque plat est préparé avec soin. Cet endroit ne déçoit jamais !"
-        ]
-    },
-    "popular_dishes_section": {
-        "badge": "Plats Populaires",
-        "title": "Repas favoris",
-        "description": "Découvrez nos créations les plus appréciées, élaborées avec passion, des ingrédients frais et des saveurs audacieuses qui incitent les clients à revenir.",
-        "items": [
-            {
-                "name": "Poulet aux herbes grillé",
-                "type": "Plat principal 🥘",
-                "description": "Poulet juteux grillé aux herbes et servi avec une sauce à l'ail."
-            },
-            {
-                "name": "Pizza Margherita classique",
-                "type": "Plat principal 🍕",
-                "description": "Pâte croustillante, mozzarella fraîche et basilic, un vrai classique."
-            },
-            {
-                "name": "Linguine aux crevettes épicées",
-                "type": "Plat principal 🥘",
-                "description": "Crevettes, piment et sauce tomate crémeuse mélangés à la perfection."
-            },
-            {
-                "name": "Fondant au chocolat",
-                "type": "Désert 🍫",
-                "description": "Gâteau fondant chaud avec une boule de glace à la vanille."
-            }
-        ]
-    },
-    "about_us_section": {
-        "badge": "À Propos",
-        "title": "Notre histoire & nos réalisations",
-        "description": "Au Restaurant, chaque plat raconte une histoire. Avec des années de dévouement et une passion pour la gastronomie, nous avons transformé l'art de cuisiner en une expérience inoubliable.",
-        "read_more": "En savoir plus",
-        "alt_image": "Illustration à propos de nous"
-    },
-    "stats": {
-        "years": [
-            "Années d'expertise",
-            "culinaire"
-        ],
-        "dishes": [
-            "Plats signature",
-            "perfectionnés"
-        ],
-        "guests": [
-            "Clients heureux",
-            "chaque mois"
-        ],
-        "awards": [
-            "Prix culinaires",
-            "prestigieux"
-        ]
-    },
-    "testimonials_section": {
-        "badge": "Témoignages",
-        "title": "Avis des clients",
-        "description": "Voici comment nos clients ont apprécié notre restaurant et les services que nous offrons.",
-        "items": [
-            {
-                "content": "Je visite ce restaurant depuis des mois et chaque expérience a été incroyable ! L'ambiance est chaleureuse et la nourriture est toujours délicieuse. Un incontournable pour quiconque se trouve dans la région."
-            },
-            {
-                "content": "Si vous aimez les plats authentiques préparés avec des ingrédients frais, cet endroit est fait pour vous. Le personnel est amical et les saveurs sont justes. Parfait pour toute occasion."
-            },
-            {
-                "content": "Une cuisine délicieuse préparée avec soin et des ingrédients frais. L'ambiance est chaleureuse et le personnel vous fait vous sentir comme chez vous. Idéal pour des dîners décontractés ou des moments spéciaux."
-            },
-            {
-                "content": "Des ingrédients frais, des saveurs équilibrées et une excellente présentation définissent ce bistro. Le personnel est poli et toujours souriant. Parfait pour une expérience culinaire agréable."
-            }
-        ]
-    },
-    "new_items_section": {
-        "badge": "Nouveaux Articles",
-        "title": "Nouveautés du menu",
-        "description": "Explorez nos plus récentes additions au menu. Chaque plat est conçu pour ravir vos papilles et offrir une expérience culinaire mémorable.",
-        "full_menu": "Menu complet",
-        "items": [
-            {
-                "title": "Saumon grillé au citron et herbes",
-                "description": "Savourez l'équilibre parfait entre le citron piquant et les herbes savoureuses, joliment accompagné d'une salade fraîche du jardin."
-            },
-            {
-                "title": "Poulet à la mangue épicée",
-                "description": "Une fusion sucrée et épicée de poitrine de poulet tendre combinée à de la mangue mûre et une délicieuse touche de piment."
-            },
-            {
-                "title": "Sauté de tempeh végétarien",
-                "description": "Un plat sain, copieux et nutritif composé de tempeh, de légumes frais de saison et d'une sauce légère et savoureuse."
-            }
-        ]
-    },
-    "contact_us_section": {
-        "badge": "Contactez-nous",
-        "title": "Contactez-nous",
-        "description": "Nous avons hâte de vous accueillir très bientôt à notre événement. Cela promet d'être une expérience mémorable remplie d'activités passionnantes.",
-        "sub_title": "Nous sommes là pour vous servir",
-        "sub_description": "Nous aimerions avoir de vos nouvelles. Que vous ayez une question, besoin d'une réservation ou que vous souhaitiez en savoir plus sur nos offres, nous sommes là pour vous aider.",
-        "alt_image": "Illustration de contact",
-        "info": {
-            "hours": {
-                "title": "Heures d'ouverture",
-                "description": "Lundi-Vendredi\n8h00 à 17h00"
-            },
-            "address": {
-                "title": "Notre adresse",
-                "description": "802 Perston Rd, Maine\n96812, USA"
-            },
-            "email": {
-                "title": "E-mail",
-                "description": "info@seliziakitchen.com"
-            },
-            "phone": {
-                "title": "Téléphone",
-                "description": "+1 (123) 456-7890"
-            }
-        }
-    },
-    "offers_section": {
-        "badge": "Offres",
-        "title": "Explorez nos offres",
-        "description": "Ne manquez pas l'expérience culinaire. Réservez votre table et laissez-vous tenter par un voyage culinaire dès aujourd'hui.",
-        "items": [
-            {
-                "text": "Offre déjeuner - 9,99 $",
-                "button": "Réserver votre table"
-            },
-            {
-                "text": "Spécial BOGO (un acheté, un offert)",
-                "button": "Profiter de l'offre"
-            },
-            {
-                "text": "Repas de famille – 29,99 $",
-                "button": "Réserver votre table"
-            }
-        ]
-    },
-    "footer": {
-        "made_with": "Fait avec ❤️ pour un meilleur web."
+  "title": "XTRA SWEETIES",
+  "description": "Savourez des ingrédients frais, des repas préparés avec soin et un espace accueillant conçu pour des moments mémorables. Découvrez une cuisine de bistro simple et délicieuse.",
+  "welcome": "Bienvenue",
+  "home": "Accueil",
+  "about": "À Propos",
+  "menu": "Menu",
+  "contact": "Contactez-nous",
+  "popular_dishes": "Plats Populaires",
+  "testimonials": "Témoignages",
+  "new_items": "Nouveaux Articles",
+  "offers": "Offres",
+  "nav_about_us": "À Propos",
+  "nav_testimonials": "Témoignages",
+  "nav_contact_us": "Contactez-nous",
+  "nav_offers": "Offres",
+  "book_table": "Réserver",
+  "hero": {
+    "title": "Savourez le goût de la perfection",
+    "description": "Bienvenue au Restaurant où la passion rencontre l'assiette. Des entrées grésillantes aux desserts signature, chaque plat est conçu pour ravir vos sens.",
+    "order_now": "Commander",
+    "comments": [
+      "L'ambiance est parfaite et la nourriture est absolument délicieuse. Hautement recommandé !",
+      "Meilleure expérience culinaire en ville. Le personnel est amical et le menu est exceptionnel.",
+      "Chaque plat est préparé avec soin. Cet endroit ne déçoit jamais !",
+      "Excellente atmosphère et saveurs incroyables. Un restaurant incontournable !",
+      "Chaque plat est préparé avec soin. Cet endroit ne déçoit jamais !"
+    ]
+  },
+  "popular_dishes_section": {
+    "badge": "Plats Populaires",
+    "title": "Repas favoris",
+    "description": "Découvrez nos créations les plus appréciées, élaborées avec passion, des ingrédients frais et des saveurs audacieuses qui incitent les clients à revenir.",
+    "items": [
+      {
+        "name": "Poulet aux herbes grillé",
+        "type": "Plat principal 🥘",
+        "description": "Poulet juteux grillé aux herbes et servi avec une sauce à l'ail."
+      },
+      {
+        "name": "Pizza Margherita classique",
+        "type": "Plat principal 🍕",
+        "description": "Pâte croustillante, mozzarella fraîche et basilic, un vrai classique."
+      },
+      {
+        "name": "Linguine aux crevettes épicées",
+        "type": "Plat principal 🥘",
+        "description": "Crevettes, piment et sauce tomate crémeuse mélangés à la perfection."
+      },
+      {
+        "name": "Fondant au chocolat",
+        "type": "Désert 🍫",
+        "description": "Gâteau fondant chaud avec une boule de glace à la vanille."
+      }
+    ]
+  },
+  "about_us_section": {
+    "badge": "À Propos",
+    "title": "Notre histoire & nos réalisations",
+    "description": "Au Restaurant, chaque plat raconte une histoire. Avec des années de dévouement et une passion pour la gastronomie, nous avons transformé l'art de cuisiner en une expérience inoubliable.",
+    "read_more": "En savoir plus",
+    "alt_image": "Illustration à propos de nous"
+  },
+  "stats": {
+    "years": [
+      "Années d'expertise",
+      "culinaire"
+    ],
+    "dishes": [
+      "Plats signature",
+      "perfectionnés"
+    ],
+    "guests": [
+      "Clients heureux",
+      "chaque mois"
+    ],
+    "awards": [
+      "Prix culinaires",
+      "prestigieux"
+    ]
+  },
+  "testimonials_section": {
+    "badge": "Témoignages",
+    "title": "Avis des clients",
+    "description": "Voici comment nos clients ont apprécié notre restaurant et les services que nous offrons.",
+    "items": [
+      {
+        "content": "Je visite ce restaurant depuis des mois et chaque expérience a été incroyable ! L'ambiance est chaleureuse et la nourriture est toujours délicieuse. Un incontournable pour quiconque se trouve dans la région."
+      },
+      {
+        "content": "Si vous aimez les plats authentiques préparés avec des ingrédients frais, cet endroit est fait pour vous. Le personnel est amical et les saveurs sont justes. Parfait pour toute occasion."
+      },
+      {
+        "content": "Une cuisine délicieuse préparée avec soin et des ingrédients frais. L'ambiance est chaleureuse et le personnel vous fait vous sentir comme chez vous. Idéal pour des dîners décontractés ou des moments spéciaux."
+      },
+      {
+        "content": "Des ingrédients frais, des saveurs équilibrées et une excellente présentation définissent ce bistro. Le personnel est poli et toujours souriant. Parfait pour une expérience culinaire agréable."
+      }
+    ]
+  },
+  "new_items_section": {
+    "badge": "Nouveaux Articles",
+    "title": "Nouveautés du menu",
+    "description": "Explorez nos plus récentes additions au menu. Chaque plat est conçu pour ravir vos papilles et offrir une expérience culinaire mémorable.",
+    "full_menu": "Menu complet",
+    "items": [
+      {
+        "title": "Saumon grillé au citron et herbes",
+        "description": "Savourez l'équilibre parfait entre le citron piquant et les herbes savoureuses, joliment accompagné d'une salade fraîche du jardin."
+      },
+      {
+        "title": "Poulet à la mangue épicée",
+        "description": "Une fusion sucrée et épicée de poitrine de poulet tendre combinée à de la mangue mûre et une délicieuse touche de piment."
+      },
+      {
+        "title": "Sauté de tempeh végétarien",
+        "description": "Un plat sain, copieux et nutritif composé de tempeh, de légumes frais de saison et d'une sauce légère et savoureuse."
+      }
+    ]
+  },
+  "contact_us_section": {
+    "badge": "Contactez-nous",
+    "title": "Contactez-nous",
+    "description": "Extra sweeties vous propose des goûters/desserts sucrés et salés sur commande. Nous réalisons vos commandes en faisant très attention à vos préférences et restriction en matière de goût.",
+    "sub_title": "Nous sommes là pour vous servir",
+    "sub_description": "Nous aimerions avoir de vos nouvelles. Que vous ayez une question, besoin d'une réservation ou que vous souhaitiez en savoir plus sur nos offres, nous sommes là pour vous aider.",
+    "alt_image": "Illustration de contact",
+    "info": {
+      "hours": {
+        "title": "Heures d'ouverture",
+        "description": "Vendredi: 11h00 - 21h00\nSamedi: 11h00 - 22h00\nDimanche: 16h00 - 21h00\nLundi: Fermé\nMardi: 11h00 - 21h00\nMercredi: 11h00 - 21h00"
+      },
+      "address": {
+        "title": "Notre adresse",
+        "description": "Abomey-Calavi, Bénin"
+      },
+      "email": {
+        "title": "E-mail",
+        "description": "apurcyle@gmail.com"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "description": "+229 01 91 26 58 29"
+      }
     }
+  },
+  "offers_section": {
+    "badge": "Offres",
+    "title": "Explorez nos offres",
+    "description": "Ne manquez pas l'expérience culinaire. Réservez votre table et laissez-vous tenter par un voyage culinaire dès aujourd'hui.",
+    "items": [
+      {
+        "text": "Offre déjeuner - 9,99 $",
+        "button": "Réserver votre table"
+      },
+      {
+        "text": "Spécial BOGO (un acheté, un offert)",
+        "button": "Profiter de l'offre"
+      },
+      {
+        "text": "Repas de famille – 29,99 $",
+        "button": "Réserver votre table"
+      }
+    ]
+  },
+  "footer": {
+    "made_with": "Fait avec ❤️ pour un meilleur web."
+  }
 }

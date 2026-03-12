@@ -4,7 +4,8 @@ export const contactInfo = [
   {
     title: 'Open Hours',
     icon: Clock8Icon,
-    description: 'Monday-Friday\n8:00 am to 5:00 pm'
+    description:
+      'Friday: 11:00 AM - 9:00 PM\nSaturday: 11:00 AM - 10:00 PM\nSunday: 4:00 PM - 9:00 PM\nMonday: Closed\nTuesday: 11:00 AM - 9:00 PM\nWednesday: 11:00 AM - 9:00 PM'
   },
   {
     title: 'Our Address',

@@ -1,169 +1,169 @@
 {
-    "title": "XTRA SWEETIES",
-    "description": "Enjoy fresh ingredients, thoughtfully prepared meals, and a welcoming space designed for memorable moments. Experience bistro dining made simple and delicious.",
-    "welcome": "Welcome",
-    "home": "Home",
-    "about": "About Us",
-    "menu": "Menu",
-    "contact": "Contact Us",
-    "popular_dishes": "Popular Dishes",
-    "testimonials": "Testimonials",
-    "new_items": "New Items",
-    "offers": "Offers",
-    "nav_about_us": "About Us",
-    "nav_testimonials": "Testimonials",
-    "nav_contact_us": "Contact Us",
-    "nav_offers": "Offers",
-    "book_table": "Book Table",
-    "hero": {
-        "title": "Savor the taste of perfection",
-        "description": "Welcome to Restaurant where passion meets the plate. From sizzling appetisers to signature desserts, every dish is crafted to delight your senses.",
-        "order_now": "Order now",
-        "comments": [
-            "The ambiance is perfect and the food is absolutely delicious. Highly recommended!",
-            "Best dining experience in town. The staff is friendly and the menu is exceptional.",
-            "Every dish is crafted with care. This place never disappoints!",
-            "Great atmosphere and incredible flavors. A must-visit restaurant!",
-            "Every dish is crafted with care. This place never disappoints!"
-        ]
-    },
-    "popular_dishes_section": {
-        "badge": "Popular Dishes",
-        "title": "Favorite meals",
-        "description": "Discover our most loved creations crafted with passion, fresh ingredients, and bold flavours that keep guests coming back for more.",
-        "items": [
-            {
-                "name": "Grilled Herb Chicken",
-                "type": "Main course 🥘",
-                "description": "Juicy chicken grilled with herbs and served with garlic sauce."
-            },
-            {
-                "name": "Classic Margherita Pizza",
-                "type": "Main course 🍕",
-                "description": "Crispy crust, fresh mozzarella, and basil a true classic."
-            },
-            {
-                "name": "Spicy Shrimp Linguine",
-                "type": "Main course 🥘",
-                "description": "Shrimp, chili, and creamy tomato sauce tossed to perfection."
-            },
-            {
-                "name": "Chocolate Lava Cake",
-                "type": "Desert 🍫",
-                "description": "Warm molten cake with a scoop of vanilla ice cream."
-            }
-        ]
-    },
-    "about_us_section": {
-        "badge": "About Us",
-        "title": "Our story & achievements",
-        "description": "At Restaurant, every dish tells a story. With years of dedication and a passion for fine dining, we've transformed the art of cooking into an unforgettable experience.",
-        "read_more": "Read more",
-        "alt_image": "About us illustration"
-    },
-    "stats": {
-        "years": [
-            "Years of Culinary",
-            "Expertise"
-        ],
-        "dishes": [
-            "Signature Dishes",
-            "Perfected"
-        ],
-        "guests": [
-            "Happy Guests",
-            "Every Month"
-        ],
-        "awards": [
-            "Prestigious",
-            "Culinary Awards"
-        ]
-    },
-    "testimonials_section": {
-        "badge": "Testimonials",
-        "title": "Customers Feedback",
-        "description": "Here's how our customers enjoyed our restaurant and the services we offer.",
-        "items": [
-            {
-                "content": "I've been visiting this restaurant for months, and every experience has been amazing! The atmosphere is warm, and the food is always delicious. A must-try for anyone in the area."
-            },
-            {
-                "content": "If you love authentic dishes made from fresh ingredients, this place is for you. The staff is friendly, and the flavours are spot on. Perfect for any occasion."
-            },
-            {
-                "content": "Delicious food made with care and fresh ingredients. The atmosphere is cozy, and the staff makes you feel right at home. Ideal for casual dinners or special moments."
-            },
-            {
-                "content": "Fresh ingredients, balanced flavors, and excellent presentation define this bistro. The staff is polite and always smiling. Perfect for a pleasant dining experience."
-            }
-        ]
-    },
-    "new_items_section": {
-        "badge": "New Items",
-        "title": "Fresh menu items",
-        "description": "Explore our most recent additions to the menu. Each dish is designed to delight your taste buds and provide a memorable dining experience.",
-        "full_menu": "Full menu",
-        "items": [
-            {
-                "title": "Lemon Herb Grilled Salmon",
-                "description": "Delight in the perfect balance of zesty lemon and savoury herbs, beautifully paired with a fresh garden salad."
-            },
-            {
-                "title": "Spicy Mango Chicken",
-                "description": "A sweet and spicy fusion of tender chicken breast combined with ripe mango and a delightful chili kick."
-            },
-            {
-                "title": "Vegetarian Tempeh Stir Fry",
-                "description": "A healthy, hearty and nutritious dish featuring tempeh, fresh seasonal vegetables, and a light, flavourful sauce."
-            }
-        ]
-    },
-    "contact_us_section": {
-        "badge": "Contact Us",
-        "title": "Get in touch with us",
-        "description": "We eagerly look forward to warmly welcoming you very soon to our event. It promises to be a memorable experience filled with exciting activities.",
-        "sub_title": "We're here to serve you",
-        "sub_description": "We would love to hear from you, Whether you have a question, need a reservation, or want to learn more about our offerings, we're here to assist.",
-        "alt_image": "Contact illustration",
-        "info": {
-            "hours": {
-                "title": "Open Hours",
-                "description": "Monday-Friday\n8:00 am to 5:00 pm"
-            },
-            "address": {
-                "title": "Our Address",
-                "description": "802 Perston Rd,Maine\n96812, USA"
-            },
-            "email": {
-                "title": "Email",
-                "description": "info@seliziakitchen.com"
-            },
-            "phone": {
-                "title": "Phone",
-                "description": "+1 (123) 456-7890"
-            }
-        }
-    },
-    "offers_section": {
-        "badge": "Offers",
-        "title": "Explore our Offerings",
-        "description": "Don't miss out on the dining experience. Reserve your table and indulge in a culinary journey today.",
-        "items": [
-            {
-                "text": "Lunch Deal - $9.99",
-                "button": "Book your table"
-            },
-            {
-                "text": "BOGO Special",
-                "button": "Claim offer"
-            },
-            {
-                "text": "Family Meal – $29.99",
-                "button": "Book your table"
-            }
-        ]
-    },
-    "footer": {
-        "made_with": "Made with ❤️ for better web."
+  "title": "XTRA SWEETIES",
+  "description": "Enjoy fresh ingredients, thoughtfully prepared meals, and a welcoming space designed for memorable moments. Experience bistro dining made simple and delicious.",
+  "welcome": "Welcome",
+  "home": "Home",
+  "about": "About Us",
+  "menu": "Menu",
+  "contact": "Contact Us",
+  "popular_dishes": "Popular Dishes",
+  "testimonials": "Testimonials",
+  "new_items": "New Items",
+  "offers": "Offers",
+  "nav_about_us": "About Us",
+  "nav_testimonials": "Testimonials",
+  "nav_contact_us": "Contact Us",
+  "nav_offers": "Offers",
+  "book_table": "Book Table",
+  "hero": {
+    "title": "Savor the taste of perfection",
+    "description": "Welcome to Restaurant where passion meets the plate. From sizzling appetisers to signature desserts, every dish is crafted to delight your senses.",
+    "order_now": "Order now",
+    "comments": [
+      "The ambiance is perfect and the food is absolutely delicious. Highly recommended!",
+      "Best dining experience in town. The staff is friendly and the menu is exceptional.",
+      "Every dish is crafted with care. This place never disappoints!",
+      "Great atmosphere and incredible flavors. A must-visit restaurant!",
+      "Every dish is crafted with care. This place never disappoints!"
+    ]
+  },
+  "popular_dishes_section": {
+    "badge": "Popular Dishes",
+    "title": "Favorite meals",
+    "description": "Discover our most loved creations crafted with passion, fresh ingredients, and bold flavours that keep guests coming back for more.",
+    "items": [
+      {
+        "name": "Grilled Herb Chicken",
+        "type": "Main course 🥘",
+        "description": "Juicy chicken grilled with herbs and served with garlic sauce."
+      },
+      {
+        "name": "Classic Margherita Pizza",
+        "type": "Main course 🍕",
+        "description": "Crispy crust, fresh mozzarella, and basil a true classic."
+      },
+      {
+        "name": "Spicy Shrimp Linguine",
+        "type": "Main course 🥘",
+        "description": "Shrimp, chili, and creamy tomato sauce tossed to perfection."
+      },
+      {
+        "name": "Chocolate Lava Cake",
+        "type": "Desert 🍫",
+        "description": "Warm molten cake with a scoop of vanilla ice cream."
+      }
+    ]
+  },
+  "about_us_section": {
+    "badge": "About Us",
+    "title": "Our story & achievements",
+    "description": "At Restaurant, every dish tells a story. With years of dedication and a passion for fine dining, we've transformed the art of cooking into an unforgettable experience.",
+    "read_more": "Read more",
+    "alt_image": "About us illustration"
+  },
+  "stats": {
+    "years": [
+      "Years of Culinary",
+      "Expertise"
+    ],
+    "dishes": [
+      "Signature Dishes",
+      "Perfected"
+    ],
+    "guests": [
+      "Happy Guests",
+      "Every Month"
+    ],
+    "awards": [
+      "Prestigious",
+      "Culinary Awards"
+    ]
+  },
+  "testimonials_section": {
+    "badge": "Testimonials",
+    "title": "Customers Feedback",
+    "description": "Here's how our customers enjoyed our restaurant and the services we offer.",
+    "items": [
+      {
+        "content": "I've been visiting this restaurant for months, and every experience has been amazing! The atmosphere is warm, and the food is always delicious. A must-try for anyone in the area."
+      },
+      {
+        "content": "If you love authentic dishes made from fresh ingredients, this place is for you. The staff is friendly, and the flavours are spot on. Perfect for any occasion."
+      },
+      {
+        "content": "Delicious food made with care and fresh ingredients. The atmosphere is cozy, and the staff makes you feel right at home. Ideal for casual dinners or special moments."
+      },
+      {
+        "content": "Fresh ingredients, balanced flavors, and excellent presentation define this bistro. The staff is polite and always smiling. Perfect for a pleasant dining experience."
+      }
+    ]
+  },
+  "new_items_section": {
+    "badge": "New Items",
+    "title": "Fresh menu items",
+    "description": "Explore our most recent additions to the menu. Each dish is designed to delight your taste buds and provide a memorable dining experience.",
+    "full_menu": "Full menu",
+    "items": [
+      {
+        "title": "Lemon Herb Grilled Salmon",
+        "description": "Delight in the perfect balance of zesty lemon and savoury herbs, beautifully paired with a fresh garden salad."
+      },
+      {
+        "title": "Spicy Mango Chicken",
+        "description": "A sweet and spicy fusion of tender chicken breast combined with ripe mango and a delightful chili kick."
+      },
+      {
+        "title": "Vegetarian Tempeh Stir Fry",
+        "description": "A healthy, hearty and nutritious dish featuring tempeh, fresh seasonal vegetables, and a light, flavourful sauce."
+      }
+    ]
+  },
+  "contact_us_section": {
+    "badge": "Contact Us",
+    "title": "Get in touch with us",
+    "description": "Extra sweeties offers sweet and savory snacks/desserts on order. We fulfill your orders by paying close attention to your preferences and taste restrictions.",
+    "sub_title": "We're here to serve you",
+    "sub_description": "We would love to hear from you, Whether you have a question, need a reservation, or want to learn more about our offerings, we're here to assist.",
+    "alt_image": "Contact illustration",
+    "info": {
+      "hours": {
+        "title": "Open Hours",
+        "description": "Friday: 11:00 AM - 9:00 PM\nSaturday: 11:00 AM - 10:00 PM\nSunday: 4:00 PM - 9:00 PM\nMonday: Closed\nTuesday: 11:00 AM - 9:00 PM\nWednesday: 11:00 AM - 9:00 PM"
+      },
+      "address": {
+        "title": "Our Address",
+        "description": "Abomey-Calavi, Benin"
+      },
+      "email": {
+        "title": "Email",
+        "description": "apurcyle@gmail.com"
+      },
+      "phone": {
+        "title": "Phone",
+        "description": "+229 01 91 26 58 29"
+      }
     }
+  },
+  "offers_section": {
+    "badge": "Offers",
+    "title": "Explore our Offerings",
+    "description": "Don't miss out on the dining experience. Reserve your table and indulge in a culinary journey today.",
+    "items": [
+      {
+        "text": "Lunch Deal - $9.99",
+        "button": "Book your table"
+      },
+      {
+        "text": "BOGO Special",
+        "button": "Claim offer"
+      },
+      {
+        "text": "Family Meal – $29.99",
+        "button": "Book your table"
+      }
+    ]
+  },
+  "footer": {
+    "made_with": "Made with ❤️ for better web."
+  }
 }
