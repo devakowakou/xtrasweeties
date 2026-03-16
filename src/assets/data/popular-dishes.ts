@@ -26,5 +26,12 @@ export const popularDishes = [
     name: 'Chocolate Lava Cake',
     type: 'Desert 🍫',
     description: 'Warm molten cake with a scoop of vanilla ice cream.'
+  },
+  {
+    image: '/images/new-items/chawarma.webp',
+    alt: 'Chicken Chawarma',
+    name: 'Chicken Chawarma',
+    type: 'Street food 🌯',
+    description: 'Marinated chicken wrapped with fresh vegetables and creamy garlic sauce.'
   }
 ]

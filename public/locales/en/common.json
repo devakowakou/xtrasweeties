@@ -51,6 +51,11 @@
         "name": "Chocolate Lava Cake",
         "type": "Desert 🍫",
         "description": "Warm molten cake with a scoop of vanilla ice cream."
+      },
+      {
+        "name": "Chicken Chawarma",
+        "type": "Street food 🌯",
+        "description": "Marinated chicken wrapped with fresh vegetables and creamy garlic sauce."
       }
     ]
   },
@@ -105,16 +110,16 @@
     "full_menu": "Full menu",
     "items": [
       {
-        "title": "Lemon Herb Grilled Salmon",
-        "description": "Delight in the perfect balance of zesty lemon and savoury herbs, beautifully paired with a fresh garden salad."
+        "title": "Prime Avocado Salad",
+        "description": "A fresh and vibrant salad with creamy avocado, crisp greens and a light house dressing for a clean, satisfying bite."
       },
       {
-        "title": "Spicy Mango Chicken",
-        "description": "A sweet and spicy fusion of tender chicken breast combined with ripe mango and a delightful chili kick."
+        "title": "Classic Club Sandwich",
+        "description": "A layered sandwich with toasted bread, tender chicken, fresh vegetables and a creamy spread, perfect for a hearty meal."
       },
       {
-        "title": "Vegetarian Tempeh Stir Fry",
-        "description": "A healthy, hearty and nutritious dish featuring tempeh, fresh seasonal vegetables, and a light, flavourful sauce."
+        "title": "Signature Pizza",
+        "description": "A golden crust pizza topped with rich tomato sauce, melted cheese and savory toppings for a bold, comforting flavor."
       }
     ]
   },
@@ -154,7 +159,7 @@
         "button": "Book your table"
       },
       {
-        "text": "BOGO Special",
+        "text": "Chawarma Special",
         "button": "Claim offer"
       },
       {

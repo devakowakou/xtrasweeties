@@ -51,6 +51,11 @@
         "name": "Fondant au chocolat",
         "type": "Désert 🍫",
         "description": "Gâteau fondant chaud avec une boule de glace à la vanille."
+      },
+      {
+        "name": "Chawarma au poulet",
+        "type": "Street food 🌯",
+        "description": "Poulet mariné roulé avec des légumes frais et une sauce à l'ail onctueuse."
       }
     ]
   },
@@ -105,16 +110,16 @@
     "full_menu": "Menu complet",
     "items": [
       {
-        "title": "Saumon grillé au citron et herbes",
-        "description": "Savourez l'équilibre parfait entre le citron piquant et les herbes savoureuses, joliment accompagné d'une salade fraîche du jardin."
+        "title": "Salade Prime Avocat",
+        "description": "Une salade fraîche et colorée avec de l'avocat fondant, des légumes croquants et une vinaigrette légère maison."
       },
       {
-        "title": "Poulet à la mangue épicée",
-        "description": "Une fusion sucrée et épicée de poitrine de poulet tendre combinée à de la mangue mûre et une délicieuse touche de piment."
+        "title": "Sandwich Club Classique",
+        "description": "Un sandwich généreux au pain toasté, poulet tendre, légumes frais et sauce onctueuse, idéal pour un repas complet."
       },
       {
-        "title": "Sauté de tempeh végétarien",
-        "description": "Un plat sain, copieux et nutritif composé de tempeh, de légumes frais de saison et d'une sauce légère et savoureuse."
+        "title": "Pizza Signature",
+        "description": "Une pizza à la pâte dorée, garnie d'une sauce tomate riche, de fromage fondant et de garnitures savoureuses."
       }
     ]
   },
@@ -154,7 +159,7 @@
         "button": "Réserver votre table"
       },
       {
-        "text": "Spécial BOGO (un acheté, un offert)",
+        "text": "Spécial Chawarma",
         "button": "Profiter de l'offre"
       },
       {

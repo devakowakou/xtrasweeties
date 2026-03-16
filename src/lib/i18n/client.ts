@@ -30,8 +30,6 @@ i18next
   })
 
 export function useTranslation(lng: string, ns: string = 'common', options: any = {}) {
-  // We use react-cookie but it's not installed yet, let's see if we really need it for the basic setup
-  // For now let's just use the standard useTranslation from react-i18next
   const ret = useTranslationOrg(ns, options)
   const { i18n } = ret
 

@@ -1,26 +1,26 @@
 export const newItems = [
   {
-    img: '/images/new-items/new-items-01.webp',
-    alt: 'Lemon Herb Grilled Salmon',
-    title: 'Lemon Herb Grilled Salmon',
+    img: '/images/new-items/Salade-avocat-prime.jpeg',
+    alt: 'Prime Avocado Salad',
+    title: 'Prime Avocado Salad',
     description:
-      'Delight in the perfect balance of zesty lemon and savoury herbs, beautifully paired with a fresh garden salad.',
+      'A fresh and vibrant salad with creamy avocado, crisp greens and a light house dressing for a clean, satisfying bite.',
     blogLink: '#'
   },
   {
-    img: '/images/new-items/new-items-02.webp',
-    alt: 'Spicy Mango Chicken',
-    title: 'Spicy Mango Chicken',
+    img: '/images/new-items/Sandwich-club.jpeg',
+    alt: 'Classic Club Sandwich',
+    title: 'Classic Club Sandwich',
     description:
-      'A sweet and spicy fusion of tender chicken breast combined with ripe mango and a delightful chili kick.',
+      'A layered sandwich with toasted bread, tender chicken, fresh vegetables and a creamy spread, perfect for a hearty meal.',
     blogLink: '#'
   },
   {
-    img: '/images/new-items/new-items-03.webp',
-    alt: 'Vegetarian Tempeh Stir Fry',
-    title: 'Vegetarian Tempeh Stir Fry',
+    img: '/images/new-items/pizza.jpeg',
+    alt: 'Signature Pizza',
+    title: 'Signature Pizza',
     description:
-      'A healthy, hearty and nutritious dish featuring tempeh, fresh seasonal vegetables, and a light, flavourful sauce.',
+      'A golden crust pizza topped with rich tomato sauce, melted cheese and savory toppings for a bold, comforting flavor.',
     blogLink: '#'
   }
 ]
