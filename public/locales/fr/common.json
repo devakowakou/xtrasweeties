@@ -33,29 +33,19 @@
     "description": "Découvrez nos créations les plus appréciées, élaborées avec passion, des ingrédients frais et des saveurs audacieuses qui incitent les clients à revenir.",
     "items": [
       {
-        "name": "Poulet aux herbes grillé",
-        "type": "Plat principal 🥘",
-        "description": "Poulet juteux grillé aux herbes et servi avec une sauce à l'ail."
+        "name": "Salade Prime Avocat",
+        "type": "Salade 🥗",
+        "description": "Une salade fraîche et colorée avec de l'avocat fondant, des légumes croquants et une vinaigrette légère maison."
       },
       {
-        "name": "Pizza Margherita classique",
+        "name": "Sandwich Club Classique",
+        "type": "Sandwich 🥪",
+        "description": "Un sandwich généreux au pain toasté, poulet tendre, légumes frais et sauce onctueuse, idéal pour un repas complet."
+      },
+      {
+        "name": "Pizza Signature",
         "type": "Plat principal 🍕",
-        "description": "Pâte croustillante, mozzarella fraîche et basilic, un vrai classique."
-      },
-      {
-        "name": "Linguine aux crevettes épicées",
-        "type": "Plat principal 🥘",
-        "description": "Crevettes, piment et sauce tomate crémeuse mélangés à la perfection."
-      },
-      {
-        "name": "Fondant au chocolat",
-        "type": "Désert 🍫",
-        "description": "Gâteau fondant chaud avec une boule de glace à la vanille."
-      },
-      {
-        "name": "Chawarma au poulet",
-        "type": "Street food 🌯",
-        "description": "Poulet mariné roulé avec des légumes frais et une sauce à l'ail onctueuse."
+        "description": "Une pizza à la pâte dorée, garnie d'une sauce tomate riche, de fromage fondant et de garnitures savoureuses."
       }
     ]
   },

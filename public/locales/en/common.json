@@ -33,29 +33,19 @@
     "description": "Discover our most loved creations crafted with passion, fresh ingredients, and bold flavours that keep guests coming back for more.",
     "items": [
       {
-        "name": "Grilled Herb Chicken",
-        "type": "Main course 🥘",
-        "description": "Juicy chicken grilled with herbs and served with garlic sauce."
+        "name": "Prime Avocado Salad",
+        "type": "Salad 🥗",
+        "description": "A fresh and vibrant salad with creamy avocado, crisp greens and a light house dressing for a clean, satisfying bite."
       },
       {
-        "name": "Classic Margherita Pizza",
+        "name": "Classic Club Sandwich",
+        "type": "Sandwich 🥪",
+        "description": "A layered sandwich with toasted bread, tender chicken, fresh vegetables and a creamy spread, perfect for a hearty meal."
+      },
+      {
+        "name": "Signature Pizza",
         "type": "Main course 🍕",
-        "description": "Crispy crust, fresh mozzarella, and basil a true classic."
-      },
-      {
-        "name": "Spicy Shrimp Linguine",
-        "type": "Main course 🥘",
-        "description": "Shrimp, chili, and creamy tomato sauce tossed to perfection."
-      },
-      {
-        "name": "Chocolate Lava Cake",
-        "type": "Desert 🍫",
-        "description": "Warm molten cake with a scoop of vanilla ice cream."
-      },
-      {
-        "name": "Chicken Chawarma",
-        "type": "Street food 🌯",
-        "description": "Marinated chicken wrapped with fresh vegetables and creamy garlic sauce."
+        "description": "A golden crust pizza topped with rich tomato sauce, melted cheese and savory toppings for a bold, comforting flavor."
       }
     ]
   },

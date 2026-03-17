@@ -1,37 +1,23 @@
 export const popularDishes = [
   {
-    image: '/images/popular-dishes/grilled-herb-chicken.webp',
-    alt: 'Grilled Herb Chicken',
-    name: 'Grilled Herb Chicken',
-    type: 'Main course 🥘',
-    description: 'Juicy chicken grilled with herbs and served with garlic sauce.'
+    image: '/images/new-items/Salade-avocat-prime.jpeg',
+    alt: 'Prime Avocado Salad',
+    name: 'Prime Avocado Salad',
+    type: 'Salad 🥗',
+    description: 'A fresh and vibrant salad with creamy avocado, crisp greens and a light house dressing for a clean, satisfying bite.'
   },
   {
-    image: '/images/popular-dishes/classic-margherita-pizza.webp',
-    alt: 'Classic Margherita Pizza',
-    name: 'Classic Margherita Pizza',
+    image: '/images/new-items/Sandwich-club.jpeg',
+    alt: 'Classic Club Sandwich',
+    name: 'Classic Club Sandwich',
+    type: 'Sandwich 🥪',
+    description: 'A layered sandwich with toasted bread, tender chicken, fresh vegetables and a creamy spread, perfect for a hearty meal.'
+  },
+  {
+    image: '/images/new-items/pizza.jpeg',
+    alt: 'Signature Pizza',
+    name: 'Signature Pizza',
     type: 'Main course 🍕',
-    description: 'Crispy crust, fresh mozzarella, and basil a true classic.'
-  },
-  {
-    image: '/images/popular-dishes/spicy-shrimp-linguine.webp',
-    alt: 'Spicy Shrimp Linguine',
-    name: 'Spicy Shrimp Linguine',
-    type: 'Main course 🥘',
-    description: 'Shrimp, chili, and creamy tomato sauce tossed to perfection.'
-  },
-  {
-    image: '/images/popular-dishes/chocolate-lava-cake.webp',
-    alt: 'Chocolate Lava Cake',
-    name: 'Chocolate Lava Cake',
-    type: 'Desert 🍫',
-    description: 'Warm molten cake with a scoop of vanilla ice cream.'
-  },
-  {
-    image: '/images/new-items/chawarma.webp',
-    alt: 'Chicken Chawarma',
-    name: 'Chicken Chawarma',
-    type: 'Street food 🌯',
-    description: 'Marinated chicken wrapped with fresh vegetables and creamy garlic sauce.'
+    description: 'A golden crust pizza topped with rich tomato sauce, melted cheese and savory toppings for a bold, comforting flavor.'
   }
 ]
